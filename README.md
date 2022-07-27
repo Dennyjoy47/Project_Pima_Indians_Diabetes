@@ -1,4 +1,4 @@
-# Project_Pima_Indians_Diabetes
+# Project-Pima Indians Diabetes
 ------------------------------
 
 ### Input Dataset
