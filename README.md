@@ -1,12 +1,12 @@
 # Project Pima Indians Diabetes
 
 
-###Pima Indians Diabetes Database
+### Pima Indians Diabetes Database
 ------------------------------
 
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
-###Dataset details
+### Dataset details
 ===============
 
 1: Pregnancies: Number of times pregnant
